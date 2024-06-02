@@ -1,0 +1,1 @@
+{"name":"Local: p4","url":"e:\\Phitron\\14.5\\p4.c","tests":[{"id":1714478817002,"input":"a","output":"A"},{"id":1714479269174,"input":"d","output":"D"},{"id":1714479373943,"input":"g","output":"G"},{"id":1714479398194,"input":"t","output":"T"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\14.5\\p4.c","group":"local","local":true}

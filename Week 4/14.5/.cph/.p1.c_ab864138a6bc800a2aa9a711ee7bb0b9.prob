@@ -1,0 +1,1 @@
+{"name":"Local: p1","url":"e:\\Phitron\\14.5\\p1.c","tests":[{"id":1714477544186,"input":"5","output":"*\n   **\n  ***\n ****\n*****"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\14.5\\p1.c","group":"local","local":true}

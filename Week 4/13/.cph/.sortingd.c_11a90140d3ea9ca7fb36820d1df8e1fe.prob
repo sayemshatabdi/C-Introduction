@@ -1,0 +1,1 @@
+{"name":"Local: sortingd","url":"e:\\Phitron\\13\\sortingd.c","tests":[{"id":1714308828899,"input":"5\n3 5 1 4 2","output":"5 4 3 2 1"},{"id":1714308865092,"input":"6\n1 5 3 5 8 10","output":"10 8 5 5 3 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\13\\sortingd.c","group":"local","local":true}

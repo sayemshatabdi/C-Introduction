@@ -1,0 +1,1 @@
+{"name":"Local: string","url":"e:\\Phitron\\10\\string.c","tests":[{"id":1713782770147,"input":"Himel","output":"Himel"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\10\\string.c","group":"local","local":true}

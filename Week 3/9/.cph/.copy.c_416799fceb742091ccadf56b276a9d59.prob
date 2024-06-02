@@ -1,0 +1,1 @@
+{"name":"Local: copy","url":"e:\\Phitron\\9\\copy.c","tests":[{"id":1713706118176,"input":"5\n10 20 30 40 50 \n2\n60 70","output":"10 20 30 40 50 60 70"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\9\\copy.c","group":"local","local":true}

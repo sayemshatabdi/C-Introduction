@@ -1,0 +1,1 @@
+{"name":"Local: positon","url":"e:\\Phitron\\9\\positon.c","tests":[{"id":1713701924783,"input":"3\n10 20 30\n0 40","output":"40 10 20 30"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\9\\positon.c","group":"local","local":true}

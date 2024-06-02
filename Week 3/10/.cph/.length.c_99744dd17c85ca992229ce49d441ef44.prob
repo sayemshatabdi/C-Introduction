@@ -1,0 +1,1 @@
+{"name":"Local: length","url":"e:\\Phitron\\10\\length.c","tests":[{"id":1713794371574,"input":"programming","output":"11"},{"id":1713797541722,"input":"phitron","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\10\\length.c","group":"local","local":true}

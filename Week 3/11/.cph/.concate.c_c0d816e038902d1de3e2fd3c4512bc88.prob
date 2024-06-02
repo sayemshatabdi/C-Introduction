@@ -1,0 +1,1 @@
+{"name":"Local: concate","url":"e:\\Phitron\\11\\concate.c","tests":[{"id":1713970056350,"input":"toy bad","output":"toybad"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\11\\concate.c","group":"local","local":true}

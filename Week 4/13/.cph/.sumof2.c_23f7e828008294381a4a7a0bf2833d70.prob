@@ -1,0 +1,1 @@
+{"name":"Local: sumof2","url":"e:\\Phitron\\13\\sumof2.c","tests":[{"id":1714307605787,"input":"5\n10 2 6 7 4\n9","output":"Yes"},{"id":1714308181406,"input":"6\n1 9 2 8 3 7\n31","output":"No"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\13\\sumof2.c","group":"local","local":true}
